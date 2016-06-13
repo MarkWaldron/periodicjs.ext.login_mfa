@@ -107,6 +107,6 @@
     "postinstall": "node install.js",
     "postuninstall": "node uninstall.js"
   },
-  "version": "7.0.2",
+  "version": "7.1.0",
   "_shasum": "65155dff5912a6da8589fdd149b36138633fd056"
 }
